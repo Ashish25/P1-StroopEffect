@@ -3,6 +3,8 @@
 * In this project, I will investigate a classic phenomenon from experimental psychology called the Stroop Effect. 
 * I will analyse, create a hypothesis regarding the outcome of the task, then look at some data collected from others who have performed the same task and will compute some statistics describing the results. Finally, I will interpret my findings in terms of [statistical hypotheses](https://en.wikipedia.org/wiki/Statistical_hypothesis_testing).
 
+### _[My Report](https://ashish25.github.io/P1-StroopEffect/)_
+
 ### Accessing the Analysis :key:
 
 You can access and edit the result of the analysis by accessing the notebook available via IPython Notebook through these steps:
